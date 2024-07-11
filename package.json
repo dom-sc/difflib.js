@@ -1,12 +1,12 @@
 {
-    "name": "@ewoudenberg/difflib",
-    "version": "0.1.0",
+    "name": "@dom-sc/difflib",
+    "version": "0.1.1",
     "description": "Text diff library ported from Python's difflib module, forked from https://github.com/qiao/difflib.js",
-    "homepage": "https://github.com/ewoudenberg/difflib.js",
+    "homepage": "https://github.com/dom-sc/difflib.js",
     "keywords": [
         "diff"
     ],
-    "author": "Eric Woudenberg <eaw@woudy.org>",
+    "author": "Dom DiPasquale <dominic.dipasquale@soundcomerce.com>",
     "main": "./index.js",
     "dependencies": {
         "heap": ">= 0.2.0"
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/ewoudenberg/difflib.js.git"
+        "url": "git://github.com/dom-sc/difflib.js.git"
     },
     "licenses": [
         {
